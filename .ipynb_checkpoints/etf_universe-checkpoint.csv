@@ -1,0 +1,35 @@
+ticker,description
+EEM,iShares MSCI Emerging Markets ETF*
+EFA,iShares MSCI EAFE ETF*
+EWH,iShares MSCI Hong Kong ETF
+EWJ,iShares MSCI Japan ETF*
+EWU,iShares MSCI United Kingdom ETF*
+EWW,iShares MSCI Mexico Capped ETF*
+EWY,iShares MSCI South Korea Capped ETF*
+EWZ,iShares MSCI Brazil Capped ETF*
+FXI,iShares China Large-Cap ETF*
+FXY,CurrencyShares Japanese Yen Trust*
+GDX,VanEck Vectors Gold Miners ETF*
+GLD,SPDR Gold Trust*
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF*
+IWM,iShares Russell 2000 ETF*
+QQQ,PowerShares QQQ Trust*
+SLV,iShares Silver Trust*
+SMH,VanEck Vectors Semiconductor ETF*
+SPY,SPDR S&P 500 ETF*
+TBT,Proshares Ultrashort 20+ Year Treasury*
+TLT,iShares 20+ Year Treasury Bond ETF*
+USO,United States Oil Fund*
+XHB,SPDR S&P Homebuilders ETF*
+XLB,MATERIALS SELECT SECTOR SPDR*
+XLE,ENERGY SECTOR SPDR*
+XLF,FINANCIAL SECTOR SPDR*
+XLI,INDUSTRIAL SECTOR SPDR*
+XLK,TECHNOLOGY SECTOR SPDR*
+XLP,CONSUMER STAPLES SPDR*
+XLU,UTILITIES SECTOR SPDR*
+XLV,HEALTH CARE SELECT SECTOR SPDR*
+XLY,Consumer Discretionary Select Sector SPDR*
+XME,SPDR S&P Metals & Mining ETF*
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF*
+XRT,SPDR S&P Retail ETF*
