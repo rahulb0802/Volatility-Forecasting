@@ -25,7 +25,7 @@ The `notebooks/` folder includes Jupyter notebooks detailing the analysis:
 
 ## Report
 
-For a detailed walkthrough of the methodology, results, and conclusions, view the interactive HTML report by opening `index.html` or accessing the corresponding Github Pages deployment in your web browser. This report provides visualizations, model comparisons, and insights into the forecasting performance.
+For a detailed walkthrough of the methodology, results, and conclusions, view the interactive HTML report by visiting this link: https://rahulb0802.github.io/Volatility-Forecasting/
 
 ## Requirements
 
